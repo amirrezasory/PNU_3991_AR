@@ -13,7 +13,7 @@
 ##  بخش عمومی
 
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/amirrezasory/PNU_3991_AR/blob/main/as.arzesh%20rezome.pdf)
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/amirrezasory/PNU_3991_AR/blob/main/as.omome.pdf)
 
 ##  بخش دروس ارشد
 
